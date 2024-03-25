@@ -1,4 +1,5 @@
 Documentation readme file (Vanessa Leung s8092474)
+
 -Overview-
 Hello, this is Vanessa from Hong Kong. I am so happy to be here to introduce you to my hometown. Hong Kong is such a beautiful city with the ranking #1 in over 8,000 travellers in 2023 (Nath, K. 2023). Last year, there are 34 million international visitor arrivals in Hong Kong (Agne Blazyte 2024). So I would like to share some ideas on how to promote travel to Hong Kong.
 
@@ -27,6 +28,7 @@ To improve the accessibility of text links, users can understand what informatio
 
 
 Reference list:
+
 Nath, K. (2023). Hong Kong ranks #1 in APAC Travel confidence. [online] Brand TD. Available at: https://www.traveldailymedia.com/hong-kong-ranks-1-in-apac-travel-confidence/ [Accessed 25 Mar. 2024].
 
 Agne Blazyte (2024). Number of visitor arrivals Hong Kong 2013-2023.
