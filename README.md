@@ -18,11 +18,11 @@ My website contains some information, pictures, a video and useful links. The pi
 -Accessible designs (HTML/CSS)-
 
 -	Language attribution:
-Added <html lang=”en”> to indicate the language of the content, so that screen readers and the search engines can understand which language is being used.
+Added "<html lang=”en”>" to indicate the language of the content, so that screen readers and the search engines can understand which language is being used.
 -	Meta tags:
-Added<meta charset=”UTF-8”> to indicate the character encoding of the web page.
+Added"<meta charset=”UTF-8”>" to indicate the character encoding of the web page.
 -	Semantic HTML:
-Used <main>, <section>, <footer>, etc. to make the structure easier to search and understand, thus improving accessibility.
+Used" <main>, <section>, <footer>", etc. to make the structure easier to search and understand, thus improving accessibility.
 -	The alt description of images:
 Added the alt descriptions for the accessibility and for some users who can’t see the images.
 -	Video-container:
